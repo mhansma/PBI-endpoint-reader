@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Power BI endpoint reader": {
+      "commandName": "Project",
+      "commandLineArgs": "server database"
+    }
+  }
+}
